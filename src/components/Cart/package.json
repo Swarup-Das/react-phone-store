@@ -1,0 +1,6 @@
+{
+  "main": "Cart.js",
+  "devDependencies": {
+    "@types/react": "^17.0.34"
+  }
+}
